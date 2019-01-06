@@ -1,0 +1,14 @@
+{
+    "points": [
+        { "init node": 1 },
+        { "init table" : 1 },
+        { "hash func": 1 },
+        { "bucket func": 1 },
+        { "set": 4 },
+        { "load": 2 },
+        { "get": 4 },
+        { "contains": 2 },
+        { "remove": 4 },
+        { "resize": 5 }
+    ]
+}
